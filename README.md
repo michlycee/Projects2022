@@ -5,5 +5,3 @@
 Учётная запись на GitHub: https://github.com/AlexeyDesyatnik
 
 Ссылка на проект: https://github.com/desyatnik-michlycee/MyProject
-
-бла бла бла
