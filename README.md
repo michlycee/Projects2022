@@ -5,3 +5,9 @@
 Учётная запись на GitHub: https://github.com/AlexeyDesyatnik
 
 Ссылка на проект: https://github.com/desyatnik-michlycee/MyProject
+
+## Илья Полубояринов
+
+Учетная запись на GitHub: https://github.com/IghorTatar
+
+Ссылка на проект: https://github.com/IghorTatar/ProjectIMDB
