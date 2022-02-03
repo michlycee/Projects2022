@@ -12,6 +12,12 @@
 
 Ссылка на проект: https://github.com/IghorTatar/ProjectIMDB
 
+## Алина Козлова
+
+Учетная запись на GitHub: https://github.com/alinakozlova95
+
+Ссылка на проект: https://github.com/alinakozlova95/newrepository
+
 ## Захаров Михаил
 
 Учетная запись на GitHub: https://github.com/Limitan
