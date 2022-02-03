@@ -41,3 +41,9 @@
 Учетная запись на GitHub: https://github.com/alinakozlova95
 
 Ссылка на проект: https://github.com/alinakozlova95/newrepository
+
+## Дмитрий Мордасов
+
+Учетная запись на GitHub: https://github.com/DmiMor
+
+Ссылка на проект: https://github.com/DmiMor/MyProject
