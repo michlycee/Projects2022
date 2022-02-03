@@ -12,6 +12,12 @@
 
 Ссылка на проект: https://github.com/IghorTatar/ProjectIMDB
 
+## София Ильина
+
+Учетная запись на GitHub: https://github.com/sofiyailina
+
+Ссылка на проект: https://github.com/sofiyailina/ProjectInformatics
+
 ## Дмитрий Гриднев
 
 Учётная запись на GitHub: https://github.com/russkiyavtoprom
