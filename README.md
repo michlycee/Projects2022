@@ -11,3 +11,9 @@
 Учетная запись на GitHub: https://github.com/IghorTatar
 
 Ссылка на проект: https://github.com/IghorTatar/ProjectIMDB
+
+## Захаров Михаил
+
+Учетная запись на GitHub: https://github.com/Limitan
+
+Ссылка на проект: https://github.com/Limitan/MyProject
