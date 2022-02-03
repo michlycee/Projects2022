@@ -12,6 +12,11 @@
 
 Ссылка на проект: https://github.com/IghorTatar/ProjectIMDB
 
+## Дмитрий Гриднев
+
+Учётная запись на GitHub: https://github.com/russkiyavtoprom
+
+Ссылка на проект: https://github.com/russkiyavtoprom/Uselessproject2
 
 ## Мария Сапова
 
