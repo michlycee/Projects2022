@@ -12,6 +12,13 @@
 
 Ссылка на проект: https://github.com/IghorTatar/ProjectIMDB
 
+
+## Ольга Ефимова
+
+Учетная запись на GitHub:  https://github.com/o2345
+
+Ссылка на проект:  https://github.com/o2345/project
+
 ## София Ильина
 
 Учетная запись на GitHub: https://github.com/sofiyailina
