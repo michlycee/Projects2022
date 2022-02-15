@@ -53,3 +53,9 @@
 Учетная запись на GitHub: https://github.com/alinakozlova95
 
 Ссылка на проект: https://github.com/alinakozlova95/newrepository
+
+## Красников Владимир
+
+Учетная запись на GitHub: https://github.com/KrasnikovVova
+
+Ссылка на проект: https://github.com/KrasnikovVova/-
