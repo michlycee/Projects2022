@@ -47,3 +47,9 @@
 Учётная запись на GitHub: https://github.com/MaryStay
 
 Ссылка на проект: https://github.com/MaryStay/MyProject
+
+## Алина Афанасьева
+
+Учетная запись на GitHuv: https://github.com/litcaprice
+
+Ссылка на проект: https://github.com/litcaprice/MyProject
