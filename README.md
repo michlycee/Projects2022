@@ -53,3 +53,9 @@
 Учетная запись на GitHub: https://github.com/litcaprice
 
 Ссылка на проект: https://github.com/litcaprice/MyProject
+
+## Красников Владимир
+
+Учетная запись на GitHub: https://github.com/KrasnikovVova
+
+Ссылка на проект: https://github.com/KrasnikovVova/-
