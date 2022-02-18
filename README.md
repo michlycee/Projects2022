@@ -48,11 +48,11 @@
 
 Ссылка на проект: https://github.com/MaryStay/MyProject
 
-## Алина Козлова
+## Алина Афанасьева
 
-Учетная запись на GitHub: https://github.com/alinakozlova95
+Учетная запись на GitHub: https://github.com/litcaprice
 
-Ссылка на проект: https://github.com/alinakozlova95/newrepository
+Ссылка на проект: https://github.com/litcaprice/MyProject
 
 ## Красников Владимир
 
